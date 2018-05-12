@@ -1,0 +1,31 @@
+_repo: Reminiscences-of-service-with-the-Twelfth-Rhode-Island-Volunteers-and-a-memorial-of-Col.-Geor__33718
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tillinghast, Pardon Elisha
+    birthdate: 1836
+    deathdate: 1905
+    gutenberg_agent_id: '36553'
+    url: http://www.gutenberg.org/2009/agents/36553
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33718'
+  lccn: '10032019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States. Army. Rhode Island Infantry Regiment, 12th (1862-1863)'
+- !lcsh 'Browne, George Huntington, 1818-1885'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+title: Reminiscences of service with the Twelfth Rhode Island Volunteers, and a memorial
+  of Col. George H. Browne
+url: http://www.gutenberg.org/ebooks/33718
